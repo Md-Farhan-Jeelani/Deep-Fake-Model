@@ -1,6 +1,6 @@
 # First Order Motion Model for Image Animation
 
-This repository contains the source code for the paper [Deep Fake Model for Image Animation](https://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation) by Md Farhan Jeelani, . 
+This repository contains the source code for the paper [Deep Fake Model for Image Animation] by Md Farhan Jeelani . 
 
 ## Example animations
 
